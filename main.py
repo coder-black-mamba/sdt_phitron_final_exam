@@ -1,5 +1,6 @@
-FARE=500
+# Refactoring Needed
 
+FARE=500
 
 class Passenger:
     def __init__(self, name, phone, bus):
